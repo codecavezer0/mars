@@ -1,0 +1,57 @@
+body {
+    background-image: url(https://mars.nasa.gov/system/feature_items/images/6668_mmx-mars-mission.jpg);
+    background-position:auto;
+    background-size:cover;
+    width: auto;
+
+}
+h1, h2{
+    text-align: center;
+    color: rgb(11, 15, 236);
+}
+p {
+   text-align: left;
+}
+h3 {
+color: white;
+}
+img{
+    margin: auto;
+    display: block;
+}
+figcaption {
+text-align: left;
+font-size: larger;
+font-style: italic;
+}
+p{
+    color: #eddadd
+}
+h4, h5{
+    font-size: xx-large;
+    text-align: center;
+  color: #de7345
+}
+.navbar {
+height: 12%;
+display: flex;
+align-items: center;
+}
+.menu-icon {
+    width: 30px;
+    cursor: pointer;
+    margin-left: 40px;
+}
+nav {
+    flex: 1;
+    text-align: right;
+}
+nav ul li {
+    list-style: none;
+    display: inline;
+    padding-left: 60px;
+}
+li {
+    text-decoration:none;
+    color:beige;
+}
